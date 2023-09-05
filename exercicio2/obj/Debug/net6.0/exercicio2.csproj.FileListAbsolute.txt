@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\PilhaFIFO\exercicio2\obj\Debug\net6.0\exercicio2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PilhaFIFO\exercicio2\obj\Debug\net6.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PilhaFIFO\exercicio2\obj\Debug\net6.0\exercicio2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PilhaFIFO\exercicio2\obj\Debug\net6.0\exercicio2.AssemblyInfo.cs
+C:\Users\User\Desktop\PilhaFIFO\exercicio2\obj\Debug\net6.0\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PilhaFIFO\exercicio2\bin\Debug\net6.0\exercicio2.exe
+C:\Users\User\Desktop\PilhaFIFO\exercicio2\bin\Debug\net6.0\exercicio2.deps.json
+C:\Users\User\Desktop\PilhaFIFO\exercicio2\bin\Debug\net6.0\exercicio2.runtimeconfig.json
+C:\Users\User\Desktop\PilhaFIFO\exercicio2\bin\Debug\net6.0\exercicio2.dll
+C:\Users\User\Desktop\PilhaFIFO\exercicio2\bin\Debug\net6.0\exercicio2.pdb
+C:\Users\User\Desktop\PilhaFIFO\exercicio2\obj\Debug\net6.0\exercicio2.dll
+C:\Users\User\Desktop\PilhaFIFO\exercicio2\obj\Debug\net6.0\refint\exercicio2.dll
+C:\Users\User\Desktop\PilhaFIFO\exercicio2\obj\Debug\net6.0\exercicio2.pdb
+C:\Users\User\Desktop\PilhaFIFO\exercicio2\obj\Debug\net6.0\exercicio2.genruntimeconfig.cache
+C:\Users\User\Desktop\PilhaFIFO\exercicio2\obj\Debug\net6.0\ref\exercicio2.dll
